@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkchess_academy=self.webpackChunkchess_academy||[]).push([[678],{6558:function(e,a,t){t.r(a),t.d(a,{Head:function(){return s}});var c=t(7294),n=t(2279);a.default=()=>c.createElement("main",{className:"body-container"},c.createElement(n.default,null));const s=()=>c.createElement("title",null,"Chess Academy")}}]);
-//# sourceMappingURL=component---src-pages-index-js-4cb3deaade6af8409f49.js.map
